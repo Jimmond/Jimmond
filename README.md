@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, God bless u 👋
 
 
-<!--
-**Jimmond/Jimmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm a Software Engineer, working as a Fullstack Developer.I'm really like learn new think about technology, proud to be Quisqueyano 👨🏻‍🦱 , Platano maduro is the best food, Love my bae 🥰, and I'm a child of God ✝️.
+
+
+
+- 👨🏻‍💻 Working with JavaScript, Angular, Node.js, SQL, MongoDB and FLutter 📲.
+- 🔭 I’m currently working on Wepsys Do 👨🏻‍💻
+- 📚 Team Lead member of the Software Rookies RD community 
+- 🌱 I'm currently learning about algorithmics
+- 📫 Reach me on Instagram https://www.instagram.com/jimmond_dev/
+- 🧱 Fun fact: I'm really like to take photos
