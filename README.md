@@ -11,5 +11,5 @@ I'm a Software Engineer, working as a Fullstack Developer.I'm really like learn 
 - 🔭 I’m currently working on Wepsys Do 👨🏻‍💻
 - 📚 Team Lead member of the Software Rookies RD community 
 - 🌱 I'm currently learning about algorithmics
-- 📫 Reach me on Instagram [Instagram](https://www.instagram.com/jimmond_dev) and [Twitter](https://twitter.com/JimmyOrtiz99). 
+- 📫 Reach me on [Instagram](https://www.instagram.com/jimmond_dev) and [Twitter](https://twitter.com/JimmyOrtiz99). 
 - 🧱 Fun fact: I'm really like to take photos
