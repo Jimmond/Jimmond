@@ -7,9 +7,9 @@ I'm a Software Engineer, working as a Fullstack Developer.I'm really like learn 
 
 
 
-- 👨🏻‍💻 Working with JavaScript, Angular, Node.js, SQL, MongoDB and FLutter 📲.
-- 🔭 I’m currently working on Wepsys Do 👨🏻‍💻
-- 📚 Team Lead member of the Software Rookies RD community 
-- 🌱 I'm currently learning about algorithmics
+- 👨🏻‍💻 Working with JavaScript, React, Node.js, SQL, NoSQL and React Native 📲.
+- 🔭 I’m currently working on Scotiaback Do 👨🏻‍💻
+- 👨‍🏫Team Lead member of the Software Rookies RD community 
+- 📚 Interested in learning Golang
 - 📫 Reach me on [Instagram](https://www.instagram.com/jimmond_dev) and [Twitter](https://twitter.com/JimmyOrtiz99). 
 - 🧱 Fun fact: I'm really like to take photos
