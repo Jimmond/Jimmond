@@ -10,6 +10,5 @@ I'm a Software Engineer, working as a Fullstack Developer.I'm really like learn 
 - 👨🏻‍💻 Working with JavaScript, React, Node.js, SQL, NoSQL and React Native 📲.
 - 🔭 I’m currently working on Scotiabank Do 👨🏻‍💻
 - 👨‍🏫Team Lead member of the Software Rookies RD community 
-- 📚 Interested in learning Golang
 - 📫 Reach me on [Instagram](https://www.instagram.com/jimmond_dev), [Twitter](https://twitter.com/JimmyOrtiz99) and [LinkedIn](https://www.linkedin.com/in/jimmy-ortiz9903/). 
 
